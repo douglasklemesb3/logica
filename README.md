@@ -1,7 +1,9 @@
 # logica groger bank
-##nome
+
 - Douglas Klemes
 - cibely Pereira
-##dificuldade
+
+
+dificuldade
 - em parte na logica.
 - na montagem de codigos.
